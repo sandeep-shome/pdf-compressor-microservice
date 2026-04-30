@@ -211,7 +211,7 @@ export async function downloadController(
 
     const dataStream = await minioClient.getObject(
       MINIO_FILE_BUCKET_NAME,
-      fileData.objectKey!,
+      fileData.compressedObjectKey!,
     );
 
     dataStream.on("error", (err) => {
