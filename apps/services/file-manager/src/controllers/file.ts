@@ -215,7 +215,7 @@ export async function downloadController(
     );
 
     dataStream.on("error", (err) => {
-      console.log("Minio Stram Error:", err);
+      console.log("Minio Stream Error:", err);
       res.status(500).end();
     });
 
