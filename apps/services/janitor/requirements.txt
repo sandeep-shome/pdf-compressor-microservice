@@ -1,0 +1,4 @@
+APScheduler==3.11.2
+dotenv==0.9.9
+minio==7.2.20
+pymongo==4.17.0

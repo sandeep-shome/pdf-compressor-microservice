@@ -1,0 +1,7 @@
+*.env
+.venv
+Dockerfile
+__pycache__
+*.pyc
+*.pyo
+*.md
