@@ -14,6 +14,10 @@ A PDF compression system that builds on the microservice architecture, in a very
 
 - 📱 Cross platform
 
+## Demo
+
+**Youtube Video** - https://youtu.be/CSK2fPaeKdk
+
 ## Screenshots
 
 ![App Screenshot](./screenshots/Screenshot%202026-04-30%20220625.png)
